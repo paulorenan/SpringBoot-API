@@ -1,4 +1,4 @@
-INSERT INTO USUARIO (nome, email, senha) VALUES ('Renan', 'renan@gmail.com', '123456');
+INSERT INTO USUARIO (nome, email, senha) VALUES ('Renan', 'renan@gmail.com', '$2a$10$DBFgMHdJHiggDk63vEXG8u1FmynI0eBQFMBNvauaQC1QAj/j.EgRm'); -- 123456
 
 INSERT INTO CURSO(nome, categoria) VALUES ('Java', 'Programação');
 INSERT INTO CURSO(nome, categoria) VALUES ('Python', 'Programação');
